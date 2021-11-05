@@ -1,5 +1,5 @@
 # dns
-A DNS client for Deno
+Bare-minimum DNS Query with Deno
 
 
 ```
